@@ -1,4 +1,4 @@
-hi=int(input("digite a hora inicial em formato 24h: "))
+hi=int(input("digite a hora inicial em formato 12h: "))
 mi=int(input("digite o minuto inicial: "))
 hf=int(input("digite a hora final: "))
 mf=int(input("digite o minuto final: "))
